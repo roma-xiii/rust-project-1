@@ -58,3 +58,4 @@ cargo test -p parser-lib
 - [`bin`](docs/YPBankBinFormat_ru.md)
 - [`csv`](docs/YPBankCsvFormat_ru.md)
 - [`txt`](docs/YPBankTextFormat_ru.md)
+
